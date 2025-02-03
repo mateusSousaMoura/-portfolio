@@ -17,6 +17,6 @@
 ---
 
 ## 📊 GitHub Stats:
-![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=tokyonight)
+![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusSousaMoura&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=tokyonight)
 
 ---
