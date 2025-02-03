@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusSousaMoura&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=tokyonight)
+## 📊 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusSousaMoura&layout=compact&hide_title=true&hide_border=true&theme=tokyonight)
 
 ---
