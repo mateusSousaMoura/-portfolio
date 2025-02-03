@@ -12,11 +12,7 @@
 ---
 
 ## 💻 Tech Stack:
-- **Languages**: Python, JavaScript
-- **Frameworks**: Tailwind, Flask
-- **Databases**: MySQL
-- **Tools**: Docker, Git
-- **Others**: RESTful APIs
+[![My Skills](https://skillicons.dev/icons?i=html,css,docker,elasticsearch,git,js,mysql,py,tailwind)](https://skillicons.dev)
 
 ---
 
